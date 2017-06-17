@@ -1,6 +1,7 @@
 {
     "name": "saschaende/geshi",
     "type": "library",
+    "version":"1.0.9.0",
     "description": "GeSHi - Generic Syntax Highlighter. This is an unmodified port of GeSHi project code found on SourceForge.",
     "homepage": "http://qbnz.com/highlighter",
     "keywords": ["highlighter", "highlight", "syntax"],
